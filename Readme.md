@@ -1,4 +1,4 @@
-# Taskify - A Team Collaboration Tool 
+# Task management System- A Team Collaboration Tool 
 
 ## Full Stack Project using MERN
 
